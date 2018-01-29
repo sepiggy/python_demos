@@ -16,13 +16,15 @@ Python demo toys, enjoy:)
     - [视频](https://www.imooc.com/learn/747)
     - [代码](syntax/oop/imooc_jugg_20180125)
     
-# 2 教程
+# 2 库
+    
+# 3 教程
 
-# 3 应用
-## 3.1 爬虫
+# 4 应用
+## 4.1 爬虫
 1. DC 学院的 "Python 爬虫(入门 + 进阶)" 视频教程
     - [视频](https://www.dcxueyuan.com/classDetail/courseList/17/page.html)
     - [代码](crawler/dcxueyuan_20180127/)
-    - [笔记]()
+    - [笔记](crawler/dcxueyuan_20180127/notes.md)
 
 
